@@ -1,0 +1,10 @@
+Este es el readme de mi primer repositorio con el cual pretendo aprender un poco más de git y github. Happy coding!
+
+mkdir HelloGithub
+cd HelloGithub
+git init
+touch README
+git add README
+git commit -m 'first commit'
+git remote add origin git@github.com:repcax/HelloGithub.git
+git push -u origin master 
